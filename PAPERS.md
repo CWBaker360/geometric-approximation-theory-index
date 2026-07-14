@@ -2,7 +2,7 @@
 
 ## 1. A Constructible Cubic Error Cascade for Approximate Angle Trisection
 
-- **Repository:** [`constructible-cubic-trisection`](https://github.com/CWBaker360/constructible-cubic-trisection)
+- **Repository:** [`constructible-cubic-trisection`](https://github.com/CWBaker360/Repository-name-Constructible-Cubic-Trisection)
 - **Track:** Angle division
 - **Status:** Uploaded / being verified
 - **Role:** Constructible approximate trisection and cubic residual cascade.
@@ -16,7 +16,7 @@
 
 ## 3. A Constructive N-Series Acceleration Law for Polygonal Approximation of Pi
 
-- **Repository:** [`nseries-pi-acceleration`](https://github.com/CWBaker360/nseries-pi-acceleration)
+- **Repository:** [`nseries-pi-acceleration`](https://github.com/CWBaker360/N-Series-pi-acceleration)
 - **Track:** N-Series core
 - **Status:** Uploaded / being verified
 - **Role:** Expository core of the polygonal even-power cancellation hierarchy.

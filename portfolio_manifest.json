@@ -8,7 +8,7 @@
   "repositories": [
     {
       "order": 1,
-      "repo": "constructible-cubic-trisection",
+      "repo": "Repository-name-Constructible-Cubic-Trisection",
       "title": "A Constructible Cubic Error Cascade for Approximate Angle Trisection",
       "track": "Angle division",
       "role": "Constructible approximate trisection and cubic residual cascade.",
@@ -24,7 +24,7 @@
     },
     {
       "order": 3,
-      "repo": "nseries-pi-acceleration",
+      "repo": "N-Series-pi-acceleration",
       "title": "A Constructive N-Series Acceleration Law for Polygonal Approximation of Pi",
       "track": "N-Series core",
       "role": "Expository core of the polygonal even-power cancellation hierarchy.",

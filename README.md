@@ -13,9 +13,9 @@ All 15 repositories listed below have been prepared as distinct, claim-bounded r
 
 | No. | Repository | Track | Status |
 |---:|---|---|---|
-| 1 | [`constructible-cubic-trisection`](https://github.com/CWBaker360/constructible-cubic-trisection) | Angle division | Uploaded / being verified |
+| 1 | [`constructible-cubic-trisection`](https://github.com/CWBaker360/Repository-name-Constructible-Cubic-Trisection) | Angle division | Uploaded / being verified |
 | 2 | [`proportional-subtended-cubic-refinement`](https://github.com/CWBaker360/proportional-subtended-cubic-refinement) | Angle division | Uploaded / being verified |
-| 3 | [`nseries-pi-acceleration`](https://github.com/CWBaker360/nseries-pi-acceleration) | N-Series core | Uploaded / being verified |
+| 3 | [`nseries-pi-acceleration`](https://github.com/CWBaker360/N-Series-pi-acceleration) | N-Series core | Uploaded / being verified |
 | 4 | [`scaling-cancellation-principle`](https://github.com/CWBaker360/scaling-cancellation-principle) | N-Series core | Uploaded / being verified |
 | 5 | [`scale-optimized-polygonal-pi-acceleration`](https://github.com/CWBaker360/scale-optimized-polygonal-pi-acceleration) | N-Series core | Uploaded / being verified |
 | 6 | [`spherical-nseries-area-law`](https://github.com/CWBaker360/spherical-nseries-area-law) | Spherical geometry | Uploaded / being verified |
