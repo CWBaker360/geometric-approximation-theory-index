@@ -2,7 +2,7 @@
 
 ## GitHub About description
 
-Master index, dependency map, and publication roadmap for C. Wayne Baker's Geometric Approximation Theory research repositories.
+Master index, dependency map, and publication roadmap for C. Wayne Baker's Geometric Approximation Theory repositories, including the spherical N-Series area track.
 
 ## Suggested topics
 
@@ -11,10 +11,10 @@ geometric-approximation
 constructive-geometry
 nseries
 pi-g
-angle-trisection
+spherical-geometry
+spherical-area
 polygonal-approximation
 ellipse-perimeter
-richardson-extrapolation
 ramanujan
 research-index
 ```

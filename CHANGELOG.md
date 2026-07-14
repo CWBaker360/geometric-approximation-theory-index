@@ -1,9 +1,9 @@
 # Changelog
 
-## index-v1 — 2026-07-14
+## index-v2 — 2026-07-14
 
-- Created the master index for 14 uploaded and verified repositories.
-- Grouped the archive into five research tracks.
-- Added a dependency-aware publication roadmap.
-- Added a citation graph and repository standards.
-- Recorded superseded drafts to prevent duplicate repositories.
+- Added `spherical-nseries-area-law` as the fifteenth repository.
+- Added a dedicated spherical-geometry research track.
+- Updated the dependency graph and publication roadmap.
+- Added spherical-grid, geodesy, curved-surface area, and mesh-regularity scope.
+- Updated the machine-readable portfolio manifest from 14 to 15 repositories.

@@ -1,48 +1,17 @@
 # Superseded and Absorbed Drafts
 
-The following surviving archive items should **not** become additional
-standalone repositories.
+## Early Archimedean subdivision note
 
-## `AccelerationOfArchimedes'PolygonMethod.tex`
+`AccelerationOfArchimedes'PolygonMethod.tex` is absorbed by `nseries-pi-acceleration` and `scale-optimized-polygonal-pi-acceleration`. Its unqualified exact-constructibility language for tripled regular polygons is not retained.
 
-An early two-page position note. Its valid scaling observations are absorbed
-into:
+## Intermediate geometric-acceleration synthesis
 
-- `nseries-pi-acceleration`
-- `scale-optimized-polygonal-pi-acceleration`
+`Geometric Acceleration of the Archimedean Limit.tex` is superseded by the scaling-cancellation and scale-optimized repositories.
 
-Its unqualified description of the sequence
-\(6\to18\to54\to\cdots\) as exactly compass-and-straightedge constructible is
-not retained.
+## Spherical drafts
 
-## `Geometric Acceleration of the Archimedean Limit.tex`
+Earlier seven-page and four-test spherical manuscripts are retained as provenance inside `spherical-nseries-area-law`. The expanded five-test source and synchronized PDF are authoritative. `A_SphericalTri.tex` concerns spherical angle division and is not part of the area-law repository.
 
-An intermediate synthesis draft. Its general cancellation material is
-superseded by:
+## Formula sheets and modular comparison drafts
 
-- `scaling-cancellation-principle`
-- `scale-optimized-polygonal-pi-acceleration`
-
-It should be preserved only as research history, not treated as an
-authoritative manuscript.
-
-## `A Geometric Recasting of Classical Pi.pdf`
-
-This one-page formula sheet is already included as a companion document in:
-
-- `classical-appearances-of-pi-g`
-
-It is not a separate proof or paper.
-
-## `ramanujan_modular_nseries_scale_operators(1).pdf`
-
-Its guarded scale analogy is absorbed and sharpened by:
-
-- `ramanujan-pi-nseries-geometric-constant`
-- `ramanujan-landen-nseries-refinement`
-
-## Duplicate pasted-text and PDF versions
-
-Earlier or duplicated source files should remain outside authoritative
-`paper/` folders. Only the synchronized source/PDF pair in each finished
-repository should be cited or released.
+The one-page geometric-pi sheet belongs with `classical-appearances-of-pi-g`. Earlier Ramanujan modular-scale drafts are absorbed by the two finished Ramanujan/Landen repositories.

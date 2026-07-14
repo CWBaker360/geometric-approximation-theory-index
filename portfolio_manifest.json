@@ -3,120 +3,128 @@
   "author": "C. Wayne Baker",
   "github_username": "CWBaker360",
   "generated_date": "2026-07-14",
-  "repository_count": 14,
-  "all_uploaded_and_verified": true,
+  "repository_count": 15,
+  "includes_spherical_geometry_track": true,
   "repositories": [
     {
       "order": 1,
       "repo": "constructible-cubic-trisection",
       "title": "A Constructible Cubic Error Cascade for Approximate Angle Trisection",
       "track": "Angle division",
-      "role": "Seed paper: constructible approximate trisection and cubic residual cascade.",
-      "status": "Uploaded and verified"
+      "role": "Constructible approximate trisection and cubic residual cascade.",
+      "status": "Uploaded / being verified"
     },
     {
       "order": 2,
       "repo": "proportional-subtended-cubic-refinement",
       "title": "A Local Cubic Refinement Law for Proportional-Subtended Angle Division",
       "track": "Angle division",
-      "role": "Generalizes the cubic cancellation mechanism to the proportional-subtended family.",
-      "status": "Uploaded and verified"
+      "role": "General local cubic cancellation law for proportional-subtended angle division.",
+      "status": "Uploaded / being verified"
     },
     {
       "order": 3,
       "repo": "nseries-pi-acceleration",
       "title": "A Constructive N-Series Acceleration Law for Polygonal Approximation of Pi",
       "track": "N-Series core",
-      "role": "Expository core of the even-power polygonal cancellation hierarchy.",
-      "status": "Uploaded and verified"
+      "role": "Expository core of the polygonal even-power cancellation hierarchy.",
+      "status": "Uploaded / being verified"
     },
     {
       "order": 4,
       "repo": "scaling-cancellation-principle",
       "title": "A Scaling-Cancellation Principle for Chord-Based Geometric Approximations",
       "track": "N-Series core",
-      "role": "Separates fixed-resolution scaling cancellation from nonlinear cubic residual iteration.",
-      "status": "Uploaded and verified"
+      "role": "Separates fixed-resolution scale cancellation from nonlinear residual iteration.",
+      "status": "Uploaded / being verified"
     },
     {
       "order": 5,
       "repo": "scale-optimized-polygonal-pi-acceleration",
       "title": "Scale-Optimized Geometric Acceleration of Polygonal Approximations to Pi",
       "track": "N-Series core",
-      "role": "Develops scale-b operators, uniform weight stability, remainder bounds, and scale optimization.",
-      "status": "Uploaded and verified"
+      "role": "General scale-b operators, uniform weight stability, remainder bounds, and scale optimization.",
+      "status": "Uploaded / being verified"
     },
     {
       "order": 6,
+      "repo": "spherical-nseries-area-law",
+      "title": "A Spherical N-Series Area Law for Regular Refinement Families",
+      "track": "Spherical geometry",
+      "role": "Extends the 2-4-6-8 cancellation ladder to regular spherical area refinements and identifies a mesh-regularity boundary.",
+      "status": "Uploaded / being verified"
+    },
+    {
+      "order": 7,
       "repo": "constructible-tower-approaching-pi",
       "title": "A Constructible Tower Approaching Pi",
       "track": "Constructibility",
       "role": "Explicit constructible Richardson-Romberg tower approaching the nonconstructible limit pi.",
-      "status": "Uploaded and verified"
-    },
-    {
-      "order": 7,
-      "repo": "baker-geometric-pi-verification",
-      "title": "Cross-Domain Numerical Consistency Checks for Baker's Geometric Constant pi_g",
-      "track": "Verification",
-      "role": "Referee-safe algebraic construction audit and eight cross-domain numerical checks.",
-      "status": "Uploaded and verified"
+      "status": "Uploaded / being verified"
     },
     {
       "order": 8,
+      "repo": "baker-geometric-pi-verification",
+      "title": "Cross-Domain Numerical Consistency Checks for Baker's Geometric Constant pi_g",
+      "track": "Verification",
+      "role": "Algebraic construction audit and cross-domain numerical consistency checks.",
+      "status": "Uploaded / being verified"
+    },
+    {
+      "order": 9,
       "repo": "classical-appearances-of-pi-g",
       "title": "Classical Appearances of pi_g: A Geometric Substitution Note",
       "track": "Exposition",
       "role": "Records the exact substitution principle after pi_g = pi is established.",
-      "status": "Uploaded and verified"
-    },
-    {
-      "order": 9,
-      "repo": "ramanujan-pi-nseries-geometric-constant",
-      "title": "Ramanujan-Type Pi Acceleration and the N-Series Geometric Constant pi_g",
-      "track": "Ramanujan comparison",
-      "role": "Guarded structural comparison between modular acceleration and geometric scale cancellation.",
-      "status": "Uploaded and verified"
+      "status": "Uploaded / being verified"
     },
     {
       "order": 10,
+      "repo": "ramanujan-pi-nseries-geometric-constant",
+      "title": "Ramanujan-Type Pi Acceleration and the N-Series Geometric Constant pi_g",
+      "track": "Ramanujan comparison",
+      "role": "Guarded comparison between modular acceleration and geometric scale cancellation.",
+      "status": "Uploaded / being verified"
+    },
+    {
+      "order": 11,
       "repo": "agm-prefactor-coefficient-law",
       "title": "A Prefactor Coefficient Law for the Gauss-Legendre AGM",
       "track": "AGM and modular structure",
       "role": "Identifies the dynamic coefficient law arising from the changing AGM error prefactor.",
-      "status": "Uploaded and verified"
+      "status": "Uploaded / being verified"
     },
     {
-      "order": 11,
+      "order": 12,
       "repo": "ramanujan-landen-nseries-refinement",
       "title": "Ramanujan, Landen, and Baker N-Series Refinement",
       "track": "AGM and modular structure",
       "role": "Develops the two-axis comparison and higher-degree modular gap law.",
-      "status": "Uploaded and verified"
-    },
-    {
-      "order": 12,
-      "repo": "universal-scaling-law-ellipse-perimeters",
-      "title": "A Universal Scaling Law for Ellipse Perimeters",
-      "track": "Ellipse geometry",
-      "role": "Establishes the polygonal scale law across ellipse aspect ratios.",
-      "status": "Uploaded and verified"
+      "status": "Uploaded / being verified"
     },
     {
       "order": 13,
-      "repo": "ramanujan-ellipse-nseries-comparison",
-      "title": "Ellipse Perimeter: Ramanujan Approximation and N-Series Geometric Acceleration",
+      "repo": "universal-scaling-law-ellipse-perimeters",
+      "title": "A Universal Scaling Law for Ellipse Perimeters",
       "track": "Ellipse geometry",
-      "role": "Compares Ramanujan's closed formula with two- and three-scale polygonal acceleration.",
-      "status": "Uploaded and verified"
+      "role": "Establishes polygonal scale behavior across ellipse aspect ratios.",
+      "status": "Uploaded / being verified"
     },
     {
       "order": 14,
+      "repo": "ramanujan-ellipse-nseries-comparison",
+      "title": "Ellipse Perimeter: Ramanujan Approximation and N-Series Geometric Acceleration",
+      "track": "Ellipse geometry",
+      "role": "Compares Ramanujan closed-form approximation with multi-scale polygonal acceleration.",
+      "status": "Uploaded / being verified"
+    },
+    {
+      "order": 15,
       "repo": "ramanujan-ellipse-residual-geometry",
       "title": "Ramanujan's Final Ellipse Correction and N-Series Residual Geometry",
       "track": "Ellipse geometry",
       "role": "Audits the final eccentricity correction and scale-resolved recovery of the remaining residual.",
-      "status": "Uploaded and verified"
+      "status": "Uploaded / being verified"
     }
   ]
 }

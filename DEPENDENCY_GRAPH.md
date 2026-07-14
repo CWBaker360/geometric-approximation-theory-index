@@ -3,12 +3,12 @@
 ```mermaid
 flowchart TD
     A[Constructible cubic trisection] --> B[Proportional-subtended cubic refinement]
-    A --> D[Scaling-cancellation principle]
-    B --> D
 
-    C[N-Series pi acceleration] --> D
+    C[N-Series pi acceleration] --> D[Scaling-cancellation principle]
     C --> E[Scale-optimized polygonal pi acceleration]
     D --> E
+    D --> S[Spherical N-Series area law]
+    E --> S
     C --> F[Constructible tower approaching pi]
 
     C --> G[Geometric pi verification]
@@ -23,15 +23,15 @@ flowchart TD
     L --> N
 ```
 
+## Spherical dependency note
+
+The spherical-area paper depends on the general conditional scale-cancellation theorem, but its geometric even-power law remains conjectural outside the tested regular families. Numerical evidence does not replace an analytic proof for arbitrary spherical domains or meshes.
+
 ## Citation principles
 
-- The angle-division papers should not cite polygonal N-Series cancellation as
-  though it were the same convergence mechanism.
-- The N-Series papers may cite Richardson/Romberg for the algebraic
-  extrapolation and identify the geometric contribution separately.
-- The Ramanujan and Landen papers must retain the guarded distinction between
-  polynomial resolution acceleration and modular or AGM convergence.
-- The ellipse residual paper should cite the broader ellipse comparison but
-  avoid reproducing its complete numerical survey.
-- Verification papers provide evidence and reproducibility; they do not replace
-  analytic proofs.
+- Distinguish cubic angular refinement from fixed-resolution scale cancellation.
+- Attribute Richardson-Romberg extrapolation as classical arithmetic.
+- Treat the spherical 2-4-6-8 ladder as numerical evidence for regular families.
+- Do not describe perturbed-mesh diagnostic quotients as stable high-order convergence when the asymptotic regime is unclear.
+- Keep Ramanujan, Landen, and AGM comparisons guarded against claims of numerical equivalence.
+- Verification repositories support evidence and reproducibility; they do not replace proofs.

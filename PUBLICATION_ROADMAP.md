@@ -1,61 +1,41 @@
 # Working Publication Roadmap
 
-This is a dependency-aware release order, not a claim that every item must be
-submitted to the same venue.
+This is a dependency-aware release order, not a claim that every item belongs in the same venue.
 
-## Phase I — Cubic angle-division triad
+## Phase I - Cubic angle division
 
 1. `constructible-cubic-trisection`
 2. `proportional-subtended-cubic-refinement`
+
+These establish the constructible seed construction and generalized local cubic law.
+
+## Phase II - Core N-Series geometry
+
 3. `nseries-pi-acceleration`
-
-These establish the constructive seed, the generalized local cubic law, and
-the separate polygonal scale-cancellation mechanism.
-
-## Phase II — General N-Series structure
-
 4. `scaling-cancellation-principle`
 5. `scale-optimized-polygonal-pi-acceleration`
-6. `constructible-tower-approaching-pi`
+6. `spherical-nseries-area-law`
+7. `constructible-tower-approaching-pi`
 
-This phase moves from taxonomy to general scale operators, stability, explicit
-remainder control, and constructible accelerated towers.
+The spherical paper follows the planar scale-operator papers because it applies the same conditional moment-cancellation mechanism to curved-surface area. The constructible tower then develops a separate field-theoretic consequence of the polygonal hierarchy.
 
-## Phase III — Verification and exposition
+## Phase III - Verification and exposition
 
-7. `baker-geometric-pi-verification`
-8. `classical-appearances-of-pi-g`
-9. `ramanujan-pi-nseries-geometric-constant`
+8. `baker-geometric-pi-verification`
+9. `classical-appearances-of-pi-g`
+10. `ramanujan-pi-nseries-geometric-constant`
 
-These are best released after the mathematical identity and acceleration
-papers are available to cite.
+## Phase IV - AGM and modular comparisons
 
-## Phase IV — AGM and modular comparisons
+11. `agm-prefactor-coefficient-law`
+12. `ramanujan-landen-nseries-refinement`
 
-10. `agm-prefactor-coefficient-law`
-11. `ramanujan-landen-nseries-refinement`
+## Phase V - Ellipse sequence
 
-The AGM coefficient paper should precede the Landen comparison because the
-latter uses and interprets the dynamic coefficient law.
+13. `universal-scaling-law-ellipse-perimeters`
+14. `ramanujan-ellipse-nseries-comparison`
+15. `ramanujan-ellipse-residual-geometry`
 
-## Phase V — Ellipse sequence
+## Minimum release package
 
-12. `universal-scaling-law-ellipse-perimeters`
-13. `ramanujan-ellipse-nseries-comparison`
-14. `ramanujan-ellipse-residual-geometry`
-
-The universal scaling paper supplies the geometric baseline. The comparison
-paper then contrasts full approximations, and the residual paper isolates the
-smaller correction-scale question.
-
-## Release-package minimum
-
-Before a repository becomes public, confirm:
-
-- synchronized `.tex` and PDF;
-- reproducibility instructions;
-- claim-boundary statement;
-- citation metadata;
-- checksums;
-- no obsolete or contradictory source in the authoritative paper folder;
-- cross-repository citations use the final public URLs or archival identifiers.
+Before making a repository public, confirm a synchronized TeX/PDF pair, reproducibility instructions, claim-boundary statement, citation metadata, checksums, and final cross-repository citations.
