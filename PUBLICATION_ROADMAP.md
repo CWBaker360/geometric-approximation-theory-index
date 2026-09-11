@@ -14,7 +14,7 @@ These establish the constructible seed construction and the generalized local cu
 ## Phase II - Core N-Series geometry
 
 3. `nseries-pi-acceleration` - **Public**
-4. `scaling-cancellation-principle` - **Staged; revised manuscript verified 2026-09-11**
+4. `scaling-cancellation-principle` - **Public; revised v2 released 2026-09-11**
 5. `scale-optimized-polygonal-pi-acceleration` - Staged
 6. `spherical-nseries-area-law` - Staged
 7. `constructible-tower-approaching-pi` - Staged
@@ -42,7 +42,7 @@ The spherical paper follows the planar scale-operator papers because it applies 
 
 ## Immediate release sequence
 
-The next archive in the dependency order is `scaling-cancellation-principle`. Before changing its visibility, synchronize the revised September 11 TeX/PDF pair with the repository metadata, changelog, citation file, and checksums. The later N-Series and spherical archives can then cite that definitive version.
+The `scaling-cancellation-principle` archive is now public with its synchronized September 11 revised TeX/PDF pair, metadata, changelog, citation file, and checksums. The next archive in the dependency order is `scale-optimized-polygonal-pi-acceleration`; the later N-Series and spherical archives can cite the public scaling-cancellation v2 release as their fixed-scale foundation.
 
 ## Minimum release package
 
