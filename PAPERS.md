@@ -27,7 +27,7 @@ _Last updated: September 11, 2026._
 
 - **Repository:** [`scaling-cancellation-principle`](https://github.com/CWBaker360/scaling-cancellation-principle)
 - **Track:** N-Series core
-- **Status:** Staged - revised manuscript independently verified September 11, 2026
+- **Status:** Public - revised v2 released September 11, 2026
 - **Role:** Formulates the two-scale cancellation theorem, unique multi-scale Lagrange weights, geometric-node leading coefficient \(b^{-s(s+1)}\), and the recursive fixed-base extrapolation ladder; explicitly separates classical Richardson-type scale cancellation from nonlinear cubic residual refinement.
 
 ## 5. Scale-Optimized Geometric Acceleration of Polygonal Approximations to Pi
