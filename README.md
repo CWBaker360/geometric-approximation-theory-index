@@ -17,7 +17,7 @@ All 15 repositories below have been prepared as distinct, claim-bounded research
 | 1 | [`constructible-cubic-trisection`](https://github.com/CWBaker360/Constructible-Cubic-Trisection) | Angle division | **Public** |
 | 2 | [`proportional-subtended-cubic-refinement`](https://github.com/CWBaker360/proportional-subtended-cubic-refinement) | Angle division | **Public** |
 | 3 | [`nseries-pi-acceleration`](https://github.com/CWBaker360/N-Series-pi-acceleration) | N-Series core | **Public** |
-| 4 | [`scaling-cancellation-principle`](https://github.com/CWBaker360/scaling-cancellation-principle) | N-Series core | **Staged - revised manuscript verified 2026-09-11** |
+| 4 | [`scaling-cancellation-principle`](https://github.com/CWBaker360/scaling-cancellation-principle) | N-Series core | **Public - revised v2 released 2026-09-11** |
 | 5 | [`scale-optimized-polygonal-pi-acceleration`](https://github.com/CWBaker360/scale-optimized-polygonal-pi-acceleration) | N-Series core | Staged |
 | 6 | [`spherical-nseries-area-law`](https://github.com/CWBaker360/spherical-nseries-area-law) | Spherical geometry | Staged |
 | 7 | [`constructible-tower-approaching-pi`](https://github.com/CWBaker360/constructible-tower-approaching-pi) | Constructibility | Staged |
