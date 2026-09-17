@@ -1,6 +1,6 @@
 # Annotated Paper and Repository List
 
-_Last updated: September 11, 2026._
+_Last updated: September 17, 2026._
 
 ## 1. A Constructible Cubic Error Cascade for Approximate Angle Trisection
 
@@ -34,15 +34,15 @@ _Last updated: September 11, 2026._
 
 - **Repository:** [`scale-optimized-polygonal-pi-acceleration`](https://github.com/CWBaker360/scale-optimized-polygonal-pi-acceleration)
 - **Track:** N-Series core
-- **Status:** Staged
+- **Status:** Public
 - **Role:** General scale-\(b\) operators, uniform weight stability, remainder bounds, scale optimization, and constructibility boundaries.
 
 ## 6. A Spherical N-Series Area Law for Regular Refinement Families
 
 - **Repository:** [`spherical-nseries-area-law`](https://github.com/CWBaker360/spherical-nseries-area-law)
 - **Track:** Spherical geometry
-- **Status:** Staged
-- **Role:** Extends the 2-4-6-8 cancellation ladder to regular spherical area refinements and identifies a mesh-regularity boundary.
+- **Status:** Public
+- **Role:** Extends the 2-4-6-8 cancellation ladder to regular spherical area refinements and identifies a mesh-regularity boundary. The general spherical even-power area law remains conjectural outside the tested regular families.
 
 ## 7. A Constructible Tower Approaching Pi
 
@@ -107,6 +107,13 @@ _Last updated: September 11, 2026._
 - **Status:** Staged
 - **Role:** Audits the final eccentricity correction and scale-resolved recovery of the remaining residual.
 
+## 16. A Curvature-Deformed Arcsine Coordinate for Cubic Geometric Refinement
+
+- **Repository:** [`curvature-deformed-arcsine`](https://github.com/CWBaker360/curvature-deformed-arcsine)
+- **Track:** Curved geometric refinement
+- **Status:** Public
+- **Role:** Develops the normalized intrinsic geodesic side law as a local linearizing coordinate for curved encode-scale-decode refinement, including an exact spherical model and analytic variable-curvature structure through geometric weight five. The general weight-six side law is supported by high-precision rational reconstruction pending an independent analytic degree-eight two-point geodesic-distance derivation.
+
 ## Status convention
 
-**Public** means the repository is currently accessible to external readers. **Staged** means the archive exists but remains private while its final synchronized release package is prepared. A staged GitHub link may therefore return a not-found page to an unauthenticated visitor.
+**Public** means the repository is currently accessible to external readers. **Staged** means the archive exists but remains intentionally private. A staged entry is part of the research map, not a commitment or schedule for future public release, and its GitHub link may therefore return a not-found page to an unauthenticated visitor.
