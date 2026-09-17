@@ -2,17 +2,19 @@
   "title": "Geometric Approximation Theory Repository Index",
   "author": "C. Wayne Baker",
   "github_username": "CWBaker360",
-  "generated_date": "2026-07-14",
-  "repository_count": 15,
+  "generated_date": "2026-09-17",
+  "repository_count": 16,
   "includes_spherical_geometry_track": true,
+  "includes_curved_refinement_track": true,
+  "release_policy": "All staged repositories are intended for future public release. Timing and order are deliberately staggered and remain subject to a fresh pre-release audit.",
   "repositories": [
     {
       "order": 1,
-      "repo": "Repository-name-Constructible-Cubic-Trisection",
+      "repo": "Constructible-Cubic-Trisection",
       "title": "A Constructible Cubic Error Cascade for Approximate Angle Trisection",
       "track": "Angle division",
       "role": "Constructible approximate trisection and cubic residual cascade.",
-      "status": "Uploaded / being verified"
+      "status": "Public"
     },
     {
       "order": 2,
@@ -20,7 +22,7 @@
       "title": "A Local Cubic Refinement Law for Proportional-Subtended Angle Division",
       "track": "Angle division",
       "role": "General local cubic cancellation law for proportional-subtended angle division.",
-      "status": "Uploaded / being verified"
+      "status": "Public"
     },
     {
       "order": 3,
@@ -28,7 +30,7 @@
       "title": "A Constructive N-Series Acceleration Law for Polygonal Approximation of Pi",
       "track": "N-Series core",
       "role": "Expository core of the polygonal even-power cancellation hierarchy.",
-      "status": "Uploaded / being verified"
+      "status": "Public"
     },
     {
       "order": 4,
@@ -36,15 +38,15 @@
       "title": "A Scaling-Cancellation Principle for Chord-Based Geometric Approximations",
       "track": "N-Series core",
       "role": "Separates fixed-resolution scale cancellation from nonlinear residual iteration.",
-      "status": "Uploaded / being verified"
+      "status": "Public - revised v2 released 2026-09-11"
     },
     {
       "order": 5,
       "repo": "scale-optimized-polygonal-pi-acceleration",
       "title": "Scale-Optimized Geometric Acceleration of Polygonal Approximations to Pi",
       "track": "N-Series core",
-      "role": "General scale-b operators, uniform weight stability, remainder bounds, and scale optimization.",
-      "status": "Uploaded / being verified"
+      "role": "General scale-b operators, uniform weight stability, remainder bounds, scale optimization, and constructibility boundaries.",
+      "status": "Public"
     },
     {
       "order": 6,
@@ -52,7 +54,7 @@
       "title": "A Spherical N-Series Area Law for Regular Refinement Families",
       "track": "Spherical geometry",
       "role": "Extends the 2-4-6-8 cancellation ladder to regular spherical area refinements and identifies a mesh-regularity boundary.",
-      "status": "Uploaded / being verified"
+      "status": "Public"
     },
     {
       "order": 7,
@@ -60,7 +62,7 @@
       "title": "A Constructible Tower Approaching Pi",
       "track": "Constructibility",
       "role": "Explicit constructible Richardson-Romberg tower approaching the nonconstructible limit pi.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release"
     },
     {
       "order": 8,
@@ -68,7 +70,7 @@
       "title": "Cross-Domain Numerical Consistency Checks for Baker's Geometric Constant pi_g",
       "track": "Verification",
       "role": "Algebraic construction audit and cross-domain numerical consistency checks.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release"
     },
     {
       "order": 9,
@@ -76,7 +78,7 @@
       "title": "Classical Appearances of pi_g: A Geometric Substitution Note",
       "track": "Exposition",
       "role": "Records the exact substitution principle after pi_g = pi is established.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release"
     },
     {
       "order": 10,
@@ -84,7 +86,7 @@
       "title": "Ramanujan-Type Pi Acceleration and the N-Series Geometric Constant pi_g",
       "track": "Ramanujan comparison",
       "role": "Guarded comparison between modular acceleration and geometric scale cancellation.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release"
     },
     {
       "order": 11,
@@ -92,7 +94,7 @@
       "title": "A Prefactor Coefficient Law for the Gauss-Legendre AGM",
       "track": "AGM and modular structure",
       "role": "Identifies the dynamic coefficient law arising from the changing AGM error prefactor.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release"
     },
     {
       "order": 12,
@@ -100,15 +102,15 @@
       "title": "Ramanujan, Landen, and Baker N-Series Refinement",
       "track": "AGM and modular structure",
       "role": "Develops the two-axis comparison and higher-degree modular gap law.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release"
     },
     {
       "order": 13,
       "repo": "universal-scaling-law-ellipse-perimeters",
       "title": "A Universal Scaling Law for Ellipse Perimeters",
       "track": "Ellipse geometry",
-      "role": "Establishes polygonal scale behavior across ellipse aspect ratios.",
-      "status": "Uploaded / being verified"
+      "role": "Establishes the exact sinc-midpoint factorization, universal algebraic relative-error coefficients, tripling correction, and eccentricity-dependent onset of the asymptotic regime.",
+      "status": "Staged - planned future release"
     },
     {
       "order": 14,
@@ -116,7 +118,7 @@
       "title": "Ellipse Perimeter: Ramanujan Approximation and N-Series Geometric Acceleration",
       "track": "Ellipse geometry",
       "role": "Compares Ramanujan closed-form approximation with multi-scale polygonal acceleration.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release"
     },
     {
       "order": 15,
@@ -124,7 +126,15 @@
       "title": "Ramanujan's Final Ellipse Correction and N-Series Residual Geometry",
       "track": "Ellipse geometry",
       "role": "Audits the final eccentricity correction and scale-resolved recovery of the remaining residual.",
-      "status": "Uploaded / being verified"
+      "status": "Staged - planned future release; package requires correction before release"
+    },
+    {
+      "order": 16,
+      "repo": "curvature-deformed-arcsine",
+      "title": "A Curvature-Deformed Arcsine Coordinate for Cubic Geometric Refinement",
+      "track": "Curved geometric refinement",
+      "role": "Extends encode-scale-decode cubic refinement to intrinsic curved-surface geometry through a curvature-deformed arcsine coordinate, analytic through geometric weight five with a numerically reconstructed weight-six extension.",
+      "status": "Public"
     }
   ]
 }
