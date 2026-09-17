@@ -126,7 +126,7 @@
       "title": "Ramanujan's Final Ellipse Correction and N-Series Residual Geometry",
       "track": "Ellipse geometry",
       "role": "Audits the final eccentricity correction and scale-resolved recovery of the remaining residual.",
-      "status": "Staged - planned future release; package requires correction before release"
+      "status": "Staged - planned future release"
     },
     {
       "order": 16,
