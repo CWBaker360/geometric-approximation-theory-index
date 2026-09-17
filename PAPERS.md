@@ -113,6 +113,7 @@ _Last updated: September 17, 2026._
 ## 16. A Curvature-Deformed Arcsine Coordinate for Cubic Geometric Refinement
 
 - **Repository:** [`curvature-deformed-arcsine`](https://github.com/CWBaker360/curvature-deformed-arcsine)
+- **Zenodo DOI:** [`10.5281/zenodo.22820537`](https://doi.org/10.5281/zenodo.22820537)
 - **Track:** Curved geometric refinement
 - **Status:** Public
 - **Role:** Develops the normalized intrinsic geodesic side law as a local linearizing coordinate for curved encode-scale-decode refinement, including an exact spherical model and analytic variable-curvature structure through geometric weight five. The general weight-six side law is supported by high-precision rational reconstruction pending an independent analytic degree-eight two-point geodesic-distance derivation.
