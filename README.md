@@ -10,7 +10,7 @@ This repository is the master index for the **Geometric Approximation Theory** a
 
 ## Current status
 
-The 16 repositories below are maintained as distinct, claim-bounded research archives. Public repositories are available directly. **Staged** repositories are intentionally private and are not implied to be scheduled for public release; they may remain private while their role, synchronization, reproducibility records, cross-citations, or release metadata are reviewed.
+The 16 repositories below are maintained as distinct, claim-bounded research archives. Public repositories are available directly. **Staged** repositories are intentionally private for now but are intended for future public release. Their release timing is deliberately staggered, and each archive remains private until it is selected for a release slot and passes a fresh pre-release audit.
 
 | No. | Repository | Track | Current status |
 |---:|---|---|---|
@@ -31,7 +31,7 @@ The 16 repositories below are maintained as distinct, claim-bounded research arc
 | 15 | [`ramanujan-ellipse-residual-geometry`](https://github.com/CWBaker360/ramanujan-ellipse-residual-geometry) | Ellipse geometry | Staged |
 | 16 | [`curvature-deformed-arcsine`](https://github.com/CWBaker360/curvature-deformed-arcsine) | Curved geometric refinement | **Public** |
 
-> **Access note.** A staged repository may return a not-found page to visitors because it remains private by design.
+> **Access note.** A staged repository may return a not-found page to visitors because it remains private until its future release.
 
 ## Research architecture
 
@@ -71,7 +71,7 @@ Q-\widehat Q_N^{(s)}
 
 The revision also records the equivalent recursive Richardson-style ladder, makes the ellipse factorization an explicitly cited imported input, and keeps the fixed-resolution mechanism separate from the nonlinear proportional-subtended cubic residual law.
 
-As of September 17, 2026, the public portfolio also includes **Scale-Optimized Geometric Acceleration of Polygonal Approximations to Pi**, **A Spherical N-Series Area Law for Regular Refinement Families**, and **A Curvature-Deformed Arcsine Coordinate for Cubic Geometric Refinement**. Their public status does not imply that the remaining staged repositories will be released.
+As of September 17, 2026, the public portfolio also includes **Scale-Optimized Geometric Acceleration of Polygonal Approximations to Pi**, **A Spherical N-Series Area Law for Regular Refinement Families**, and **A Curvature-Deformed Arcsine Coordinate for Cubic Geometric Refinement**. The remaining staged repositories are intended for future public release, with timing deliberately staggered so that each release can receive its own final audit and public-facing presentation.
 
 ## Navigation
 
