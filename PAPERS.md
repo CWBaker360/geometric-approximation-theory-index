@@ -116,4 +116,4 @@ _Last updated: September 17, 2026._
 
 ## Status convention
 
-**Public** means the repository is currently accessible to external readers. **Staged** means the archive exists but remains intentionally private. A staged entry is part of the research map, not a commitment or schedule for future public release, and its GitHub link may therefore return a not-found page to an unauthenticated visitor.
+**Public** means the repository is currently accessible to external readers. **Staged** means the archive remains intentionally private pending a future release slot and a fresh pre-release audit. All staged repositories in this index are intended for eventual public release; the timing and exact order are deliberately staggered rather than fixed.
