@@ -26,6 +26,7 @@ _Last updated: September 17, 2026._
 ## 4. A Scaling-Cancellation Principle for Chord-Based Geometric Approximations
 
 - **Repository:** [`scaling-cancellation-principle`](https://github.com/CWBaker360/scaling-cancellation-principle)
+- **Zenodo DOI:** [`10.5281/zenodo.22714586`](https://doi.org/10.5281/zenodo.22714586)
 - **Track:** N-Series core
 - **Status:** Public - revised v2 released September 11, 2026
 - **Role:** Formulates the two-scale cancellation theorem, unique multi-scale Lagrange weights, geometric-node leading coefficient \(b^{-s(s+1)}\), and the recursive fixed-base extrapolation ladder; explicitly separates classical Richardson-type scale cancellation from nonlinear cubic residual refinement.
@@ -33,6 +34,7 @@ _Last updated: September 17, 2026._
 ## 5. Scale-Optimized Geometric Acceleration of Polygonal Approximations to Pi
 
 - **Repository:** [`scale-optimized-polygonal-pi-acceleration`](https://github.com/CWBaker360/scale-optimized-polygonal-pi-acceleration)
+- **Zenodo DOI:** [`10.5281/zenodo.22819869`](https://doi.org/10.5281/zenodo.22819869)
 - **Track:** N-Series core
 - **Status:** Public
 - **Role:** General scale-\(b\) operators, uniform weight stability, remainder bounds, scale optimization, and constructibility boundaries.
@@ -40,6 +42,7 @@ _Last updated: September 17, 2026._
 ## 6. A Spherical N-Series Area Law for Regular Refinement Families
 
 - **Repository:** [`spherical-nseries-area-law`](https://github.com/CWBaker360/spherical-nseries-area-law)
+- **Zenodo DOI:** [`10.5281/zenodo.22820180`](https://doi.org/10.5281/zenodo.22820180)
 - **Track:** Spherical geometry
 - **Status:** Public
 - **Role:** Extends the 2-4-6-8 cancellation ladder to regular spherical area refinements and identifies a mesh-regularity boundary. The general spherical even-power area law remains conjectural outside the tested regular families.
