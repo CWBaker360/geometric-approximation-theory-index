@@ -2,7 +2,7 @@
 
 _Last updated: September 17, 2026._
 
-This is a dependency-aware research map, not a commitment to publish every listed archive. The status notes distinguish repositories already public from intentionally private staged archives. A staged repository may remain private indefinitely; its position below records mathematical context and dependency structure, not a release schedule.
+This is a dependency-aware research and release map. All staged repositories listed here are intended for eventual public release, but their timing is deliberately staggered rather than fixed. A roughly one-at-a-time cadence can be used to give each paper its own release, infographic, and public-facing discussion, while preserving the option to reorder releases after a fresh pre-release audit.
 
 ## Phase I - Cubic angle division
 
@@ -23,7 +23,7 @@ The revised scaling-cancellation paper contains the two-scale theorem, the full 
 
 The scale-optimized polygonal paper develops the general scale-\(b\) architecture, stability bounds, remainder control, scale optimization, and constructibility boundaries. The spherical paper applies the same conditional moment-cancellation mechanism to curved-surface area; its general spherical even-power law remains conjectural outside the tested regular families.
 
-The constructible tower records a related field-theoretic consequence of the polygonal hierarchy but remains staged/private unless separately selected for release.
+The constructible tower records a related field-theoretic consequence of the polygonal hierarchy and remains staged until selected for a future release slot.
 
 ## Phase III - Verification and exposition
 
@@ -31,7 +31,7 @@ The constructible tower records a related field-theoretic consequence of the pol
 9. `classical-appearances-of-pi-g` - Staged
 10. `ramanujan-pi-nseries-geometric-constant` - Staged
 
-These repositories remain part of the research map without any presumption of public release.
+These repositories are planned future releases. Their relative order may be adjusted to keep the public sequence coherent and to ensure each archive passes a current metadata, licensing, citation, and reproducibility audit.
 
 ## Phase IV - AGM and modular comparisons
 
@@ -62,16 +62,19 @@ As of September 17, 2026, the public research repositories represented in this i
 - `spherical-nseries-area-law`;
 - `curvature-deformed-arcsine`.
 
-No staged repository is designated here as the required next release.
+The next staged release is selected separately from this dependency map. The intended cadence is deliberately spaced rather than simultaneous, and no calendar date is committed until the selected repository passes its release audit.
 
 ## Minimum release package
 
-If a staged repository is later selected for public release, confirm:
+Before a staged repository is made public, confirm:
 
 - synchronized authoritative TeX/PDF pair;
+- repository identity and title match across README, paper, `CITATION.cff`, and any Zenodo deposit;
+- explicit rights/license files, with GitHub and Zenodo license metadata consistent;
 - reproducibility instructions and retained verification artifacts where applicable;
 - explicit claim-boundary statement;
-- citation metadata;
-- current checksums;
+- current checksums regenerated after final metadata changes;
 - final cross-repository citations;
-- working internal and external links.
+- working internal and external links;
+- no copied metadata or files from another repository;
+- Zenodo DOI added back to citation metadata after deposit when applicable.
