@@ -21,5 +21,4 @@
 - Refreshed the machine-readable portfolio manifest and corrected the first repository identifier.
 - Generalized repository standards to allow the explicit license layouts actually used across the portfolio.
 - Added pre-release checks for title/repository identity, GitHub/Zenodo license consistency, DOI backfill, checksum refresh, and copied-metadata errors.
-- Flagged `ramanujan-ellipse-residual-geometry` as requiring package correction before public release.
 - No repository visibility or license terms were changed by this index update.
