@@ -3,14 +3,18 @@
 **Author:** C. Wayne Baker  
 **GitHub account:** `CWBaker360`  
 **Status:** Research-portfolio index  
-**Repository count:** 16 paper and verification repositories  
-**Last updated:** September 17, 2026
+**Repository count:** 19 research/software repositories plus this index (20 total)  
+**Last updated:** October 29, 2026
 
 This repository is the master index for the **Geometric Approximation Theory** archive. It records the scope, dependency structure, publication status, and claim boundaries of a connected program in geometric approximation, error cancellation, constructibility, curved geometric refinement, spherical area refinement, AGM/Ramanujan comparison, and ellipse geometry.
 
-## Current status
+## October 2026 checkpoint
 
-The 16 repositories below are maintained as distinct, claim-bounded research archives. Public repositories are available directly. **Staged** repositories are intentionally private for now but are intended for future public release. Their release timing is deliberately staggered, and each archive remains private until it is selected for a release slot and passes a fresh pre-release audit.
+See [`OCTOBER_2026_RELEASE_AUDIT.md`](OCTOBER_2026_RELEASE_AUDIT.md) for the current 20-repository inventory and the local manuscript-to-GitHub synchronization issues identified on October 29. The September table below is retained as a historical snapshot; in particular some repositories previously marked staged are now public.
+
+## September 2026 archived status
+
+The 16 entries below are the original September research-index inventory; their historical statuses are not a current access directory. See the October 2026 audit linked below for current visibility and additional repositories. Public repositories are available directly. **Staged** repositories are intentionally private for now but are intended for future public release. Their release timing is deliberately staggered, and each archive remains private until it is selected for a release slot and passes a fresh pre-release audit.
 
 | No. | Repository | Track | Current status |
 |---:|---|---|---|
